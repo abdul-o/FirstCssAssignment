@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    margin: 20px 50px 20px 50px;
+}
+h2{
+    margin-bottom: 20PX;
+    text-decoration: underline;
+}
+
+#my-likes{
+    background-color: lightgreen;
+}
+#my-dislikes{
+    background-color: lightgray;
+}
+
+.likes li{
+    margin-bottom: 30px;
+}
+.dislikes li{
+    margin-bottom: 30px;
+}
+.dislike-three{
+    text-transform: uppercase;
+    text-decoration: solid;
+}
